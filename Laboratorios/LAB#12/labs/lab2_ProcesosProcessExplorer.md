@@ -19,15 +19,15 @@ Realiza una captura de pantalla.
 
 Utilizando la opción de menú *Propiedades* sobre notepad.exe, obtén los siguientes datos acerca del ejecutable del Bloc de Notas.
 
-![Propiedades]()
+![Propiedades](../imgs/Propiedades.png)
 \
 
-* Path
-* Linea de ejecución
-* Directorio actual
-* Usuario que lo ha lanzado
-* Proceso que lo ha lanzado (padre)
-* Versión
+* **Path:** C:\Windows\System32\notepad.exe
+* **Linea de ejecución:** C:\Windows\system32\notepad.exe
+* **Directorio actual:** C:\Users\Tiziano\
+* **Usuario que lo ha lanzado:** OPREKIN-PC\Tiziano
+* **Proceso que lo ha lanzado (padre):** explorer.exe(1092)
+* **Versión:** 10.0.18362.1
 
 ## Ejercicio 3
 
