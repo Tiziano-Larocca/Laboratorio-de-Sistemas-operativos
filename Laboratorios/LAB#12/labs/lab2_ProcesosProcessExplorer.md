@@ -12,7 +12,7 @@ Lanza el Bloc de Notas y el Edge, abre el Process Explorer y comprueba que los p
 
 Realiza una captura de pantalla.
 
-![Process Explorer](../imgs/ProcessExplorer.png)
+![Process Explorer](../imgs/Process_Explorer.png)
 \ 
 
 ## Ejercicio 2
