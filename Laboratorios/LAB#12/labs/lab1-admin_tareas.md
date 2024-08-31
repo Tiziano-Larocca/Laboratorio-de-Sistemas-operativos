@@ -11,6 +11,10 @@ Lanza el Administrador de Tareas desde el botón de inicio y detén las tres apl
 
 Adjunta una captura de pantalla de cada una de las aplicaciones *Terminadas*.
 
+![Terminar procesos](../imgs/Terminar_procesos.png)
+
+![Procesos terminados](../imgs/Procesos_terminados.png)
+
 ## Ejercicio 2
 
 Utilizando la ventana de Rendimiento del Administrador de Tareas, obtén el tiempo que lleva encendido el Sistema.
